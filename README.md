@@ -1,5 +1,3 @@
-# Effective Enigma
+# :tada: Effective Enigma :tada:
 
-This is our new awesome repository!
-
-:smiley:
+:sparkles: This is our new awesome repository! :sparkles:
